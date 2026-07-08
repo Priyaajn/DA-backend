@@ -28,8 +28,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "http://localhost:5174",
-      // Add deployed frontend URL later
-      // "https://your-frontend.vercel.app",
+      "https://da-frontend-l39p.onrender.com",
     ],
     credentials: true,
   })
